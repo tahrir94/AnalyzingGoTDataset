@@ -1,5 +1,5 @@
 # AnalyzingGoTDataset
-Analysis of kaggle dataset using Python packages for data wrangling, visualization, and logistic regression. I used PyCharm IDE with Ananconda3 for debugging and running the code.
+Analysis of kaggle dataset using Python packages for data wrangling, visualization, and logistic regression. I used PyCharm IDE with Ananconda3 interpreter for debugging and running the code.
 
 The csv file "battles.csv" needs to be downloaded into the root folder from: https://www.kaggle.com/mylesoneill/game-of-thrones/data?select=battles.csv
 
